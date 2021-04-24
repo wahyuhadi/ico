@@ -1,4 +1,4 @@
-module ico
+module github.com/wahyuhadi/ico
 
 go 1.16
 
